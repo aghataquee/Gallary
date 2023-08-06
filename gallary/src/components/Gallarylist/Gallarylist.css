@@ -1,0 +1,15 @@
+.Gallary-wrapper{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align:center;
+}
+.gallary-details{
+   display:flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
